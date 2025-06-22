@@ -1,0 +1,51 @@
+.header1{
+   background-color:blue;
+    margin: 34px 0px;
+    margin-top: -122px;
+    padding: 10px 20px;
+   width: none;
+}
+
+
+
+.logo {
+    color: white;
+    display: flex;
+    justify-self: space-between;
+    text-align: center;
+  
+}
+
+.nav{
+    color: white;
+  padding: 5px;
+}
+.header{
+    background-color: blue;
+    color: white;
+    padding: 15px 20px;
+    display: flex;
+    box-shadow: 0 2px 10px #0000001a;
+    align-items: center;
+    position: sticky;
+    justify-content: space-between; /* This is key */
+
+}
+.desktop-nav{
+    display:flex ;
+    align-items: center;
+    gap: 25px;
+
+}
+.home{
+  background-color: white;
+}
+.apply-btn {
+  background-color: rgb(24, 187, 24);
+  color: white;
+  padding: 8px 16px;
+  border: none;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 4px;
+}

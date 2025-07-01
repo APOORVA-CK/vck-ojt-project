@@ -9,7 +9,7 @@ const CoursesPage = () =>{
            <div className="h1"> <div className="text"><h1>Our Academic Programs</h1></div></div>
             <p>Vivekanand College offers a comprehensive range of undergraduate and postgraduate programs designed to equip students with the knowledge and skills demanded by today's dynamic global landscape. Our curriculum is regularly updated to reflect industry trends and academic advancements.</p>
             <h2>Discover Campus Life</h2>
-            <video src="C:\Users\Siddhi Jadhav\Downloads\college-tour-FAmcnyfF (2).mp4" controls autoplay loop></video>
+            <video src="\Videos\college-tour-FAmcnyfF.mp4" controls width="100%" height="auto" className="course-video" autoplay loop></video>
             <h2>Undergraduate Programs (UG)</h2>
             <ul>
                 <li><b>Bachelor of Science (B.Sc.)</b></li>

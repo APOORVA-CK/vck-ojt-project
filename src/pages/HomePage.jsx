@@ -6,10 +6,11 @@ const HomePage = () =>{
         <Header/>
            <div id="container" class="scroll-bar">
           <div className="section">
-         <div >
+       
         <img alt="Vivekanand College" src="https://vck-ojt.vercel.app/assets/college-banner-Cz0xylpt.png"  className="banner-image" />
-        </div>
         <div className="overlay-text">
+        
+        
         <h1>Welcome to Vivekanand College!</h1>
 <p>Your journey to excellence starts here.</p>
             <a href="/admission" class="apply-btn">Apply Now</a>   

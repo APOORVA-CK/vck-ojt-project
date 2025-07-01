@@ -5,17 +5,12 @@
     padding: 10px 20px;
    width: none;
 }
-
-
-
 .logo {
     color: white;
     display: flex;
     justify-self: space-between;
     text-align: center;
-  
 }
-
 .nav{
     color: white;
   padding: 5px;
@@ -29,13 +24,11 @@
     align-items: center;
     position: sticky;
     justify-content: space-between; /* This is key */
-
 }
 .desktop-nav{
     display:flex ;
     align-items: center;
     gap: 25px;
-
 }
 .home{
   background-color: white;
